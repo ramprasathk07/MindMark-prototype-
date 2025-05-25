@@ -1,0 +1,72 @@
+[
+    {
+        "Question no": 1,
+        "Question": "A particle moves along the x-axis according to the equation x(t)=5t2−4t+1x(t) = 5t^2 - 4t +\n1x(t)=5t2−4t+1. What is the acceleration of the particle at t=3t = 3t=3 seconds?",
+        "options": {
+            "1": "10 m/s²",
+            "2": "6 m/s²",
+            "3": "10 m/s²",
+            "4": "2 m/s²"
+        }
+    },
+    {
+        "Question no": 2,
+        "Question": "A block of mass 2 kg is placed on a friction less inclined plane making an angle of 30° with the\nhorizontal. What is the acceleration of the block down the plane? (Take g=10g = 10g=10 m/s²)",
+        "options": {
+            "1": "5 m/s²",
+            "2": "10 m/s²",
+            "3": "8.66 m/s²",
+            "4": ""
+        }
+    },
+    {
+        "Question no": 3,
+        "Question": "Which of the following statements is true for an object in uniform circular motion?",
+        "options": {
+            "1": "The velocity is constant.",
+            "2": "The acceleration is zero.",
+            "3": "The speed is constant, but velocity changes.",
+            "4": "Both speed and velocity are constant."
+        }
+    },
+    {
+        "Question no": 4,
+        "Question": "A parallel plate capacitor is connected to a battery. If the plate separation is doubled while\nkeeping the voltage constant, what happens to the capacitance?",
+        "options": {
+            "1": "It doubles.",
+            "2": "It halves.",
+            "3": "It remains the same.",
+            "4": "It quadruples."
+        }
+    },
+    {
+        "Question no": 5,
+        "Question": "Light of wavelength 500 nm falls on a slit of width 1×10−61 ¥times 10^{-6}1×10−6 m. What is\nthe angular width of the central maximum in the diffraction pattern?",
+        "options": {
+            "1": "0.5 radians",
+            "2": "1 radian",
+            "3": "0.25 radians",
+            "4": ""
+        }
+    },
+    {
+        "Question no": 6,
+        "Question": "A current of 5 A flows through a conductor for 2 minutes. How much charge passes through\nthe conductor?",
+        "options": {
+            "1": "600 C",
+            "2": "10 C",
+            "3": "150 C",
+            "4": "1000 C"
+        }
+    },
+    {
+        "Question no": 7,
+        "Question": "The dimensional formula for Planck's constant is:",
+        "options": {
+            "1": "[ML2T−1][ML^2T^{-1}][ML2T−1]",
+            "2": "[ML2T−2][ML^2T^{-2}][ML2T−2]",
+            "3": "[MLT−1][MLT^{-1}][MLT−1]",
+            "4": "[MT−2][MT^{-2}][MT−2]\n\n\n\tPhysics\n\tSection A"
+        }
+    }
+]

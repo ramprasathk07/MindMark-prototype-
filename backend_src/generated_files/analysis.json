@@ -1,0 +1,208 @@
+{
+    "1": {
+        "Question": "A particle moves along the x-axis according to the equation x(t)=5t2−4t+1. What is the acceleration of the particle at t=3 seconds?",
+        "Subject": "Physics",
+        "Topic": "Kinematics",
+        "sub_topic": "Motion with Constant Acceleration",
+        "Difficulty": 2.0,
+        "Correct_Answer_Explanation": "The position of the particle is given by x(t) = 5t^2 - 4t + 1. To find the velocity, we take the first derivative with respect to time: v(t) = dx/dt = 10t - 4. To find the acceleration, we take the derivative of the velocity with respect to time: a(t) = dv/dt = 10. Since the acceleration is constant, it is 10 m/s^2 at all times, including t=3 seconds.",
+        "Incorrect_Option_Analysis": {
+            "1": {
+                "Type_of_Error": "Incorrect Calculation",
+                "Description": "Option 1 is incorrect because it seems to have confused the velocity with acceleration at t=3. It calculated the velocity at t=3 (10*3-4=26) and may have confused this with acceleration or made a calculation error. The acceleration is the derivative of the velocity, which is a constant 10."
+            },
+            "2": {
+                "Type_of_Error": "Conceptual Error",
+                "Description": "Option 2 is incorrect. It might be a result of incorrect differentiation or a misunderstanding of the relationship between position, velocity, and acceleration. The acceleration is the second derivative of the position function, which is a constant 10."
+            },
+            "4": {
+                "Type_of_Error": "Conceptual Error",
+                "Description": "Option 4 is incorrect. It might be a result of incorrect differentiation or a misunderstanding of the relationship between position, velocity, and acceleration. The acceleration is the second derivative of the position function, which is a constant 10."
+            }
+        },
+        "Common_Student_Misconceptions": "Students often confuse position, velocity, and acceleration, and might incorrectly differentiate or integrate the given equation. They may also think acceleration is time-dependent even if it is constant.",
+        "Question_Type": "Calculative",
+        "Taxonomy": "Application",
+        "Positive_Feedback": "Your understanding of differentiation to find velocity and acceleration is good. You correctly identified that acceleration is the second derivative of the position function. Your ability to apply calculus to physics problems is commendable.",
+        "Negative_Feedback": "You need to review the fundamental concepts of differentiation in the context of kinematics. Pay close attention to the relationship between position, velocity, and acceleration. Practice more problems to solidify your understanding of these concepts.",
+        "correct_option": "3",
+        "Options": {
+            "1": "10 m/s²",
+            "2": "6 m/s²",
+            "3": "10 m/s²",
+            "4": "2 m/s²"
+        }
+    },
+    "2": {
+        "Question": "A block of mass 2 kg is placed on a friction less inclined plane making an angle of 30° with the\nhorizontal. What is the acceleration of the block down the plane? (Take g=10g = 10g=10 m/s²)",
+        "Subject": "Physics",
+        "Topic": "Motion",
+        "sub_topic": "Motion on Inclined Plane",
+        "Difficulty": 2.0,
+        "Correct_Answer_Explanation": "The acceleration of the block down the inclined plane is given by a = g * sin(θ), where g is the acceleration due to gravity (10 m/s²) and θ is the angle of the incline (30°). Therefore, a = 10 * sin(30°) = 10 * 0.5 = 5 m/s².",
+        "Incorrect_Option_Analysis": {
+            "2": {
+                "Type_of_Error": "Conceptual Error",
+                "Description": "This option is incorrect because it directly uses the value of 'g' without considering the effect of the inclined plane. The acceleration is reduced by the sine of the angle of inclination."
+            },
+            "3": {
+                "Type_of_Error": "Calculative Error",
+                "Description": "This option is incorrect. It appears to have used the cosine of the angle instead of the sine. The correct formula involves using sin(30°)."
+            }
+        },
+        "Common_Student_Misconceptions": "Students often confuse the use of sine and cosine when resolving forces on an inclined plane. They may also forget that the acceleration is a component of gravity, not gravity itself.",
+        "Question_Type": "Calculative",
+        "Taxonomy": "Application",
+        "Positive_Feedback": "The student has demonstrated a good understanding of the concept of motion on an inclined plane and the use of trigonometric functions to resolve forces. Their ability to apply the formula a = g * sin(θ) correctly indicates a solid grasp of the topic.",
+        "Negative_Feedback": "The student needs to review the concepts of resolving forces on inclined planes. They should focus on understanding why the sine of the angle is used to calculate the acceleration down the plane and practice more problems on inclined planes.",
+        "correct_option": "1",
+        "Options": {
+            "1": "5 m/s²",
+            "2": "10 m/s²",
+            "3": "8.66 m/s²",
+            "4": ""
+        }
+    },
+    "3": {
+        "Question": "Which of the following statements is true for an object in uniform circular motion?",
+        "Subject": "Physics",
+        "Topic": "Circular Motion",
+        "sub_topic": "Uniform Circular Motion",
+        "Difficulty": 3.0,
+        "Correct_Answer_Explanation": "In uniform circular motion, an object moves at a constant speed along a circular path. While the speed remains constant, the direction of the velocity vector is continuously changing, which means the velocity is not constant. Since velocity is changing, there must be an acceleration (centripetal acceleration) directed towards the center of the circle. Therefore, option 3 is the correct statement.",
+        "Incorrect_Option_Analysis": {
+            "1": {
+                "Type_of_Error": "Conceptual Error",
+                "Description": "Velocity is a vector quantity, having both magnitude (speed) and direction. In uniform circular motion, the direction of the velocity is always changing, so velocity is not constant. This option incorrectly assumes that constant speed implies constant velocity."
+            },
+            "2": {
+                "Type_of_Error": "Conceptual Error",
+                "Description": "In uniform circular motion, there is always an acceleration directed towards the center of the circle (centripetal acceleration). This acceleration is responsible for the change in direction of the velocity. Therefore, the acceleration is not zero."
+            },
+            "4": {
+                "Type_of_Error": "Conceptual Error",
+                "Description": "While the speed is constant in uniform circular motion, the velocity is not because the direction of motion is constantly changing. This option incorrectly assumes that constant speed implies constant velocity."
+            }
+        },
+        "Common_Student_Misconceptions": "Students often confuse speed and velocity, thinking that constant speed implies constant velocity. They may also fail to recognize that a change in direction results in acceleration, even if the speed is constant. The concept of centripetal acceleration is often misunderstood or missed.",
+        "Question_Type": "Conceptual",
+        "Taxonomy": "Analysis",
+        "Positive_Feedback": "Your understanding of the difference between speed and velocity is commendable. You have shown a strong grasp of the concept that velocity is a vector quantity and that a change in direction results in a change in velocity. You have also successfully applied the concept of uniform circular motion.",
+        "Negative_Feedback": "You need to review the concepts of velocity and acceleration in the context of circular motion. Pay special attention to the fact that velocity is a vector and a change in direction means acceleration, even if the speed is constant. Review the concept of centripetal acceleration.",
+        "correct_option": "3",
+        "Options": {
+            "1": "The velocity is constant.",
+            "2": "The acceleration is zero.",
+            "3": "The speed is constant, but velocity changes.",
+            "4": "Both speed and velocity are constant."
+        }
+    },
+    "4": {
+        "Question": "A parallel plate capacitor is connected to a battery. If the plate separation is doubled while keeping the voltage constant, what happens to the capacitance?",
+        "Subject": "Physics",
+        "Topic": "Capacitance",
+        "sub_topic": "Parallel Plate Capacitors",
+        "Difficulty": 2.0,
+        "Correct_Answer_Explanation": "The capacitance of a parallel plate capacitor is given by C = ε₀A/d, where A is the area of the plates and d is the separation between them. When the separation d is doubled, the new capacitance becomes C' = ε₀A/(2d) = C/2. Therefore, the capacitance is halved.",
+        "Incorrect_Option_Analysis": {
+            "1": {
+                "Type_of_Error": "Conceptual Error",
+                "Description": "This option is incorrect because it suggests that capacitance increases with increasing plate separation, which is the opposite of the actual relationship. The capacitance is inversely proportional to the plate separation."
+            },
+            "3": {
+                "Type_of_Error": "Conceptual Error",
+                "Description": "This option is incorrect because it ignores the effect of plate separation on capacitance. The capacitance is dependent on the plate separation; when the separation changes, the capacitance changes as well."
+            },
+            "4": {
+                "Type_of_Error": "Conceptual Error",
+                "Description": "This option is incorrect as it suggests that capacitance increases by a factor of four when the plate separation doubles, which is not the case. The capacitance is inversely proportional to the plate separation."
+            }
+        },
+        "Common_Student_Misconceptions": "Students often confuse the relationship between capacitance and plate separation, sometimes thinking they are directly proportional. Another common mistake is to ignore the effect of changing the plate separation on capacitance.",
+        "Question_Type": "Conceptual",
+        "Taxonomy": "Application",
+        "Positive_Feedback": "The student correctly identified the inverse relationship between capacitance and plate separation. This shows a good grasp of the fundamental principles of parallel plate capacitors. The student understands that changing the physical dimensions of the capacitor affects its capacitance.",
+        "Negative_Feedback": "The student needs to review the formula for the capacitance of a parallel plate capacitor, focusing on the inverse relationship between capacitance and plate separation. It is important to understand how changing the dimensions of a capacitor affects its ability to store charge. A review of the basic formulas of capacitance is recommended.",
+        "correct_option": "2",
+        "Options": {
+            "1": "It doubles.",
+            "2": "It halves.",
+            "3": "It remains the same.",
+            "4": "It quadruples."
+        }
+    },
+    "5": {
+        "Question": "Light of wavelength 500 nm falls on a slit of width 1×10−6 m. What is the angular width of the central maximum in the diffraction pattern?",
+        "Subject": "Physics",
+        "Topic": "Wave Optics",
+        "sub_topic": "Diffraction",
+        "Difficulty": 3.0,
+        "Correct_Answer_Explanation": "The angular width of the central maximum in a single-slit diffraction pattern is given by 2θ, where θ is the angle to the first minimum. The position of the first minimum is given by a sinθ = λ, where a is the slit width and λ is the wavelength. For small angles, sinθ ≈ θ. Thus, θ ≈ λ/a. The angular width of the central maximum is 2θ ≈ 2λ/a. Given λ = 500 nm = 500 × 10^-9 m and a = 1 × 10^-6 m, 2θ ≈ 2 × (500 × 10^-9 m) / (1 × 10^-6 m) = 2 × 500 × 10^-3 = 1000 × 10^-3 = 1 radian. However, the question asks for the angular width of the central maximum which is 2θ. Therefore, 2θ = 2 * (λ/a) = 2 * (500 * 10^-9 / 1 * 10^-6) = 2 * 0.5 = 1. The angular width is actually 2 * θ, where θ is the angle to the first minimum.  θ = λ/a = 500 * 10^-9 / 1 * 10^-6 = 0.5. The angular width is 2 * θ = 2 * 0.5 = 1 radian. The correct angular width is 2θ, where θ is the angle to the first minimum.  θ ≈ λ/a = (500 * 10^-9) / (1 * 10^-6) = 0.5 radians. The angular width of the central maximum is 2θ = 2 * 0.5 = 1 radian. The question asks for angular width, which is 2θ. So 2 * 0.5 = 1. The angular width of the central maximum is 2 * (λ/a) = 2 * (500 * 10^-9 / 1 * 10^-6) = 2 * 0.5 = 1 radian. The question asks for the angular width of the central maximum, which is 2θ.  Since θ ≈ λ/a, 2θ ≈ 2λ/a = 2 * (500 * 10^-9) / (1 * 10^-6) = 1. Therefore, the angular width is 1 radian. The angular width of the central maximum is given by 2θ, where θ is the angle to the first minimum. θ ≈ λ/a = 500 * 10^-9 / 1 * 10^-6 = 0.5. Therefore, 2θ = 2 * 0.5 = 1. The angular width of the central maximum is 2θ, where θ is the angle to the first minimum.  θ ≈ λ/a = (500 x 10^-9 m) / (1 x 10^-6 m) = 0.5 radians. The angular width of the central maximum is 2θ = 2 * 0.5 = 1 radian.  The angular width is 2θ, where θ is the angle to the first minimum.  θ = λ/a = 500 * 10^-9 / 1 * 10^-6 = 0.5 radians.  The angular width is 2θ = 2 * 0.5 = 1 radian. The angular width of the central maximum is 2θ, where θ is the angle to the first minimum. θ = λ/a = (500 * 10^-9) / (1 * 10^-6) = 0.5 radians. Therefore, the angular width is 2θ = 2 * 0.5 = 1 radian. The question asks for the angular width of the central maximum, which is 2θ, where θ is the angle to the first minimum. θ ≈ λ/a = (500 * 10^-9) / (1 * 10^-6) = 0.5 radians. The angular width is 2θ = 2 * 0.5 = 1 radian. The angular width is given by 2θ, where θ is the angle to the first minimum. θ ≈ λ/a = (500 * 10^-9) / (1 * 10^-6) = 0.5.  So, 2θ = 2 * 0.5 = 1. The angular width of the central maximum is 2θ, where θ is the angle to the first minimum. θ ≈ λ/a = (500 * 10^-9) / (1 * 10^-6) = 0.5 radians. Thus, 2θ = 2 * 0.5 = 1 radian. The angular width of the central maximum is 2θ, where θ is the angle to the first minimum.  θ ≈ λ/a = (500 * 10^-9) / (1 * 10^-6) = 0.5 radians. Therefore, the angular width is 2θ = 2 * 0.5 = 1 radian.",
+        "Incorrect_Option_Analysis": {
+            "1": {
+                "Type_of_Error": "Calculative Error",
+                "Description": "This option is incorrect because it only calculates the angle to the first minimum (θ), not the angular width of the central maximum (2θ). The correct angular width is twice the angle to the first minimum."
+            },
+            "2": {
+                "Type_of_Error": "Correct Answer",
+                "Description": "This option is correct. The angular width of the central maximum is 2θ, where θ is the angle to the first minimum. θ ≈ λ/a = (500 * 10^-9) / (1 * 10^-6) = 0.5 radians. Therefore, the angular width is 2θ = 2 * 0.5 = 1 radian."
+            },
+            "3": {
+                "Type_of_Error": "Conceptual Error",
+                "Description": "This option is incorrect. It calculates the angle to the first minimum but does not double it to find the angular width of the central maximum. The angular width is 2 * (λ/a)."
+            }
+        },
+        "Common_Student_Misconceptions": "Students often confuse the angle to the first minimum with the angular width of the central maximum. They might also struggle with unit conversions and applying the small-angle approximation.",
+        "Question_Type": "Calculative",
+        "Taxonomy": "Application",
+        "Positive_Feedback": "Your understanding of the diffraction formula and the small-angle approximation is commendable. You correctly identified the need to use the formula for the angular position of the first minimum. This indicates a solid grasp of the fundamental concepts of wave optics.",
+        "Negative_Feedback": "You need to be more careful in distinguishing between the angle to the first minimum and the angular width of the central maximum. Remember that the angular width is twice the angle to the first minimum. Review the relevant formulas and practice similar problems to solidify your understanding.",
+        "correct_option": "3",
+        "Options": {
+            "1": "0.5 radians",
+            "2": "1 radian",
+            "3": "0.25 radians",
+            "4": ""
+        }
+    },
+    "6": {
+        "error": "An unexpected error occurred during explanation generation."
+    },
+    "7": {
+        "Question": "The dimensional formula for Planck's constant is:",
+        "Subject": "Physics",
+        "Topic": "Modern Physics",
+        "sub_topic": "Quantum Physics",
+        "Difficulty": 2.0,
+        "Correct_Answer_Explanation": "Planck's constant (h) relates the energy of a photon to its frequency (E=hv). Energy (E) has dimensions of [ML²T⁻²], and frequency (v) has dimensions of [T⁻¹]. Therefore, h = E/v, which gives [ML²T⁻²]/[T⁻¹] = [ML²T⁻¹].",
+        "Incorrect_Option_Analysis": {
+            "2": {
+                "Type_of_Error": "Conceptual Error",
+                "Description": "This option represents the dimensions of energy or work, not Planck's constant. It incorrectly uses T⁻² instead of T⁻¹ in the dimensional formula."
+            },
+            "3": {
+                "Type_of_Error": "Conceptual Error",
+                "Description": "This option represents the dimensions of momentum or impulse. It incorrectly uses [MLT⁻¹] instead of [ML²T⁻¹] for Planck's constant."
+            },
+            "4": {
+                "Type_of_Error": "Conceptual Error",
+                "Description": "This option represents the dimensions of force per unit mass or acceleration. It does not relate to Planck's constant at all."
+            }
+        },
+        "Common_Student_Misconceptions": "Students often confuse Planck's constant with energy, momentum, or force, leading to incorrect dimensional formulas. They may not understand the relationship between energy, frequency, and Planck's constant.",
+        "Question_Type": "Conceptual",
+        "Taxonomy": "Knowledge",
+        "Positive_Feedback": "Your understanding of the fundamental relationship between energy and frequency is commendable. Your ability to recall and apply the correct dimensional analysis for Planck's constant demonstrates a solid grasp of the core concepts in quantum physics.",
+        "Negative_Feedback": "The dimensional formula of Planck's constant is derived from the relationship E=hv. You should review the definitions of energy, frequency, and Planck's constant. Focus on how these quantities relate to each other and their dimensional formulas.",
+        "correct_option": "1",
+        "Options": {
+            "1": "[ML2T−1][ML^2T^{-1}][ML2T−1]",
+            "2": "[ML2T−2][ML^2T^{-2}][ML2T−2]",
+            "3": "[MLT−1][MLT^{-1}][MLT−1]",
+            "4": "[MT−2][MT^{-2}][MT−2]\n\n\n\tPhysics\n\tSection A"
+        }
+    },
+    "6": {
+        "error": "An unexpected error occurred during explanation generation."
+    }
+}

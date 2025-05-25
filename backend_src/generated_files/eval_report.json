@@ -1,0 +1,89 @@
+[
+    {
+        "Question Number": 1,
+        "Question": "A particle moves along the x-axis according to the equation x(t)=5t2\u22124t+1x(t) = 5t^2 - 4t +\n1x(t)=5t2\u22124t+1. What is the acceleration of the particle at t=3t = 3t=3 seconds?",
+        "Score": -1,
+        "Subject": "Physics",
+        "Topic": "Kinematics",
+        "Difficulty": 2.5,
+        "Taxonomy": "Application",
+        "Correct Option": "OptionUnattempted",
+        "Student Option": "Option2",
+        "Explanation for the option chosen": "No explanation available.",
+        "Common Misconceptions": "Students often confuse position, velocity, and acceleration, and might incorrectly differentiate or integrate the given equation. They may also think acceleration is time-dependent even if it is constant.",
+        "Negative Feedback": "Consider revisiting the key concepts related to this question. Your selected answer suggests a potential misunderstanding. You need to review the fundamental concepts of differentiation in the context of kinematics. Pay close attention to the relationship between position, velocity, and acceleration. Practice more problems to solidify your understanding of these concepts."
+    },
+    {
+        "Question Number": 2,
+        "Question": "A block of mass 2 kg is placed on a friction less inclined plane making an angle of 30\u00b0 with the\nhorizontal. What is the acceleration of the block down the plane? (Take g=10g = 10g=10 m/s\u00b2)",
+        "Score": -1,
+        "Subject": "Physics",
+        "Topic": "Motion",
+        "Difficulty": 2.5,
+        "Taxonomy": "Application",
+        "Correct Option": "OptionUnattempted",
+        "Student Option": "Option3",
+        "Explanation for the option chosen": "No explanation available.",
+        "Common Misconceptions": "Students often confuse the use of sine and cosine when resolving forces on an inclined plane. They may also forget that the acceleration is a component of gravity, not gravity itself.",
+        "Negative Feedback": "Consider revisiting the key concepts related to this question. Your selected answer suggests a potential misunderstanding. The student needs to review the concepts of resolving forces on inclined planes. They should focus on understanding why the sine of the angle is used to calculate the acceleration down the plane and practice more problems on inclined planes."
+    },
+    {
+        "Question Number": 3,
+        "Question": "Which of the following statements is true for an object in uniform circular motion?",
+        "Score": -1,
+        "Subject": "Physics",
+        "Topic": "Circular Motion",
+        "Difficulty": 2.5,
+        "Taxonomy": "Analysis",
+        "Correct Option": "OptionUnattempted",
+        "Student Option": "Option2",
+        "Explanation for the option chosen": "No explanation available.",
+        "Common Misconceptions": "Students often confuse speed and velocity, thinking that constant speed implies constant velocity. They may also fail to recognize that a change in direction results in acceleration, even if the speed is constant. The concept of centripetal acceleration is often misunderstood or missed.",
+        "Negative Feedback": "Consider revisiting the key concepts related to this question. Your selected answer suggests a potential misunderstanding. You need to review the concepts of velocity and acceleration in the context of circular motion. Pay special attention to the fact that velocity is a vector and a change in direction means acceleration, even if the speed is constant. Review the concept of centripetal acceleration."
+    },
+    {
+        "Question Number": 4,
+        "Question": "A parallel plate capacitor is connected to a battery. If the plate separation is doubled while\nkeeping the voltage constant, what happens to the capacitance?",
+        "Score": -1,
+        "Subject": "Physics",
+        "Topic": "Capacitance",
+        "Difficulty": 2.5,
+        "Taxonomy": "Application",
+        "Correct Option": "OptionUnattempted",
+        "Student Option": "Option2",
+        "Explanation for the option chosen": "No explanation available.",
+        "Common Misconceptions": "Students often confuse the relationship between capacitance and plate separation, sometimes thinking they are directly proportional. Another common mistake is to ignore the effect of changing the plate separation on capacitance.",
+        "Negative Feedback": "Consider revisiting the key concepts related to this question. Your selected answer suggests a potential misunderstanding. The student needs to review the formula for the capacitance of a parallel plate capacitor, focusing on the inverse relationship between capacitance and plate separation. It is important to understand how changing the dimensions of a capacitor affects its ability to store charge. A review of the basic formulas of capacitance is recommended."
+    },
+    {
+        "Question Number": 5,
+        "Question": "Light of wavelength 500 nm falls on a slit of width 1\u00d710\u221261 \u00a5times 10^{-6}1\u00d710\u22126 m. What is\nthe angular width of the central maximum in the diffraction pattern?",
+        "Score": -1,
+        "Subject": "Physics",
+        "Topic": "Wave Optics",
+        "Difficulty": 2.5,
+        "Taxonomy": "Application",
+        "Correct Option": "OptionUnattempted",
+        "Student Option": "Option3",
+        "Explanation for the option chosen": "No explanation available.",
+        "Common Misconceptions": "Students often confuse the angle to the first minimum with the angular width of the central maximum. They might also struggle with unit conversions and applying the small-angle approximation.",
+        "Negative Feedback": "Consider revisiting the key concepts related to this question. Your selected answer suggests a potential misunderstanding. You need to be more careful in distinguishing between the angle to the first minimum and the angular width of the central maximum. Remember that the angular width is twice the angle to the first minimum. Review the relevant formulas and practice similar problems to solidify your understanding."
+    },
+    {
+        "Question Number": 7,
+        "Question": "The dimensional formula for Planck's constant is:",
+        "Score": -1,
+        "Subject": "Physics",
+        "Topic": "Modern Physics",
+        "Difficulty": 2.5,
+        "Taxonomy": "Knowledge",
+        "Correct Option": "OptionUnattempted",
+        "Student Option": "Option2",
+        "Explanation for the option chosen": "No explanation available.",
+        "Common Misconceptions": "Students often confuse Planck's constant with energy, momentum, or force, leading to incorrect dimensional formulas. They may not understand the relationship between energy, frequency, and Planck's constant.",
+        "Negative Feedback": "Consider revisiting the key concepts related to this question. Your selected answer suggests a potential misunderstanding. The dimensional formula of Planck's constant is derived from the relationship E=hv. You should review the definitions of energy, frequency, and Planck's constant. Focus on how these quantities relate to each other and their dimensional formulas."
+    },
+    {
+        "Total Score": -6
+    }
+]
